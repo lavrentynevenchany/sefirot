@@ -1,0 +1,15 @@
+{
+  "name": "sefirot",
+  "owner": {
+    "name": "lavrentynevenchany",
+    "url": "https://github.com/lavrentynevenchany"
+  },
+  "description": "Консилиум агентов Claude с опорой на источники Торы.",
+  "plugins": [
+    {
+      "name": "sefirot",
+      "source": "./",
+      "description": "Консилиум из 11 агентов Claude, каждый со своим качеством; уточняет суть вопроса и отвечает с опорой на источники Торы."
+    }
+  ]
+}

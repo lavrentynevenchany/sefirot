@@ -1,0 +1,19 @@
+{
+  "name": "sefirot",
+  "version": "1.0.0",
+  "description": "Консилиум из 11 агентов Claude, каждый со своим качеством (вдохновлено взаимодействием сфирот в Каббале): уточняет суть вопроса, отвечает с опорой на источники Торы и проверяет ответ.",
+  "keywords": [
+    "sefirot",
+    "kabbalah",
+    "council",
+    "multi-agent",
+    "сфирот"
+  ],
+  "author": {
+    "name": "lavrentynevenchany",
+    "url": "https://github.com/lavrentynevenchany"
+  },
+  "homepage": "https://github.com/lavrentynevenchany/sefirot",
+  "repository": "https://github.com/lavrentynevenchany/sefirot",
+  "license": "MIT"
+}
